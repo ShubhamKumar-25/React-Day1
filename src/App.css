@@ -1,0 +1,32 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 20px;
+    margin-bottom: 15px;
+}
+
+input{
+    width: 100%;
+}
+
+.Item{
+    text-align: left;
+
+}
+
+button{
+    margin-bottom: 20px;
+}
+
+.rg-row{
+    margin: 20px 5px;
+}
+
+.rg-button{
+    min-width: 80px;
+}
+
+.rgg-button{
+    margin-right: 120px;
+    min-width: 80px;
+}
